@@ -1,4 +1,4 @@
-# APLIKASI CRUD
+# APLIKASI CRUD MAHASISWA
 
 Aplikasi untuk mengelola data mahasiswa seperti :
 
